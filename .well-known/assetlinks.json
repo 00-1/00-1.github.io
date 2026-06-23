@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "app.goblingold.voidthrone",
-    "sha256_cert_fingerprints": ["1F:D7:7B:A4:B7:29:C8:9E:1B:A9:E3:9A:E2:A8:86:09:AA:55:BA:BF:DE:5E:5A:D8:EA:5D:AA:DA:2C:E3:72:0F"]
+    "sha256_cert_fingerprints": [
+      "D5:BA:2B:7F:7D:44:5C:E3:61:9C:EA:92:B6:19:46:BD:15:BF:5D:5C:22:C3:32:DF:EB:86:E3:CE:32:74:A7:9A",
+      "1F:D7:7B:A4:B7:29:C8:9E:1B:A9:E3:9A:E2:A8:86:09:AA:55:BA:BF:DE:5E:5A:D8:EA:5D:AA:DA:2C:E3:72:0F"
+    ]
   }
 }]
